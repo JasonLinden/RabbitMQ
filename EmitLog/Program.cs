@@ -10,6 +10,8 @@ namespace EmitLog
 
     // Testing a new master branch
 
+        // Detached head
+
     class Program
     {
         static void Main(string[] args)
