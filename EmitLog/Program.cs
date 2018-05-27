@@ -10,7 +10,9 @@ namespace EmitLog
 
     // Testing a new master branch
 
-        // Detached head
+    // Detached head
+
+    // And again
 
     class Program
     {
