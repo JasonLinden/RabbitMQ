@@ -8,6 +8,8 @@ namespace EmitLog
     // data from exchange logs goes to two queues with server-assigned names.
     // And that's exactly what we intended.
 
+    // Testing a new master branch
+
     class Program
     {
         static void Main(string[] args)
