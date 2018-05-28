@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReceiveLogsTopic": {
+      "commandName": "Project",
+      "commandLineArgs": "\"error.awe\""
+    }
+  }
+}
